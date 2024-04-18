@@ -1,3 +1,3 @@
-module github.com/santekno/belajar-golang-generator-image-thumbnail
+module github.com/santekno/learn-golang-generator-image-thumbnail
 
 go 1.21.1
